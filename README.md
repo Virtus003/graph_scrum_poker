@@ -1,1 +1,1 @@
-# graph_scrum_poker
+# Graph Scrum Poker
